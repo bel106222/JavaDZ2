@@ -37,8 +37,8 @@ public class Main {
         System.out.println("Сумма чисел в диапазоне от " + begin + " до " + end + " равна: " + (summa(begin, end)));
 
         System.out.println("5.МАССИВ ФАКТОРИАЛОВ.");
-        int size = 10;
-        int[] array2 = new int[size];
+        int size2 = 10;
+        int[] array2 = new int[size2];
         Random random = new Random();
         System.out.print("Сгенерирован массив: ");
         for (int i = 0; i < array2.length; i++) {
